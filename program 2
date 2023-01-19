@@ -1,0 +1,11 @@
+
+str=input()
+n=int(input())
+for i in range(0,len(str)):
+    for j in range(0,n):
+        print(str[i],end="")
+        
+ output:
+ aditya
+ 2
+ aaddiittyyaa
